@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/mo/AndroidStudioProjects/AndroidStorage/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/mo/AndroidStudioProjects/AndroidStorage/app/src/main/res/layout/item_photo.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/mo/AndroidStudioProjects/AndroidStorage/app/src/main/res/layout/main_fragment.xml" value="0.17552083333333332" />
       </map>
     </option>
   </component>

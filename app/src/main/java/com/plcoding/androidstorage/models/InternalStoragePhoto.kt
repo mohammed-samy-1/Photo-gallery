@@ -1,4 +1,4 @@
-package com.plcoding.androidstorage
+package com.plcoding.androidstorage.models
 
 import android.graphics.Bitmap
 import android.net.Uri

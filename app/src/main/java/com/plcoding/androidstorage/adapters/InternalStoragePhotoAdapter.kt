@@ -1,4 +1,4 @@
-package com.plcoding.androidstorage
+package com.plcoding.androidstorage.adapters
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
@@ -7,6 +7,7 @@ import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
 import com.plcoding.androidstorage.databinding.ItemPhotoBinding
+import com.plcoding.androidstorage.models.InternalStoragePhoto
 
 class InternalStoragePhotoAdapter(
     private val onPhotoClick: (InternalStoragePhoto) -> Unit

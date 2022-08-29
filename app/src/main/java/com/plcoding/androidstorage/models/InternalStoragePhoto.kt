@@ -1,7 +1,6 @@
 package com.plcoding.androidstorage.models
 
 import android.graphics.Bitmap
-import android.net.Uri
 
 data class InternalStoragePhoto(
     val name: String,

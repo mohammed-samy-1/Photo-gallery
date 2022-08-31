@@ -27,6 +27,8 @@ class MainFragment : Fragment() {
     private lateinit var viewModel: MainViewModel
     private lateinit var privateAdapter: InternalStoragePhotoAdapter
     private lateinit var binding: MainFragmentBinding
+    private var readExternalsStorage = false
+    private var writeExternalsStorage = false
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?,

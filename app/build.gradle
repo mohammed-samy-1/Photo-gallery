@@ -1,6 +1,7 @@
 plugins {
     id 'com.android.application'
     id 'kotlin-android'
+//    id 'kotlin-android-extensions'
 }
 
 android {
@@ -59,4 +60,7 @@ dependencies {
     // Coroutine Lifecycle Scopes
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1"
     implementation "androidx.lifecycle:lifecycle-runtime-ktx:2.3.1"
+
+    // fingerprint auth
+    implementation "androidx.biometric:biometric-ktx:1.2.0-alpha04"
 }

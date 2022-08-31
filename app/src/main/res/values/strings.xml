@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Android Storage</string>
+    <string name="your_private_photos">Your private photos</string>
+    <string name="shared_photos">Shared photos</string>
+    <string name="p">Private</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

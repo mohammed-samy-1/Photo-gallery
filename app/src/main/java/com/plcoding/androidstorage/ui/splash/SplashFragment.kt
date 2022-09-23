@@ -64,7 +64,7 @@ class SplashFragment : Fragment() {
     override fun onResume() {
         super.onResume()
         biometricPrompt.authenticate(info)
-        authentication
+
     }
 
     private fun checkBio() {

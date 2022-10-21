@@ -14,7 +14,7 @@
     <li>MVVM Architecture</li>
     <li>biometric authentication</li>
     <li>stroage
-        <ol>
+        <ol type='1'>
             <li>internal storage</li>
             <li>external storage</li> 
             <li>scope storage</li>  
